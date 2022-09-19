@@ -1,7 +1,7 @@
 # Intro
-Basic register & Login to authenticate
+Simple register & login to authenticate
 
-Using Node.js, MongoDB (compass/atlas), [JWT](https://jwt.io/introduction), [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+Using Node.js, MongoDB (compass/atlas), [JWT](https://jwt.io/introduction)(for Authorization and Securely transmitting information), [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
     
 # Install
 ## Download code
@@ -29,5 +29,5 @@ For Cloud   (`https://mysterious-river-91829.herokuapp.com/`)
 
 For Local   (`http://localhost:9999/`)
 
-## Suport Registration, Login and ChangePassword pages
+## Include Registration, Login and ChangePassword pages
 
