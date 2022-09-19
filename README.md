@@ -15,7 +15,7 @@ Require:    mongodb atlas, heroku
     heroku create
     git push heroku main    
     heroku ps:scale web=1
-    heroku openss
+    heroku open
 
 ## Local
 Require:    mongodb compass
